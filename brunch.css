@@ -1,0 +1,36 @@
+#mainarea{
+    height:1650px;
+    width:100%;
+    background:grey;
+}
+
+    #toparea
+    {
+        height:40px;
+        width:100%;
+        background: #1D4F44;
+        
+       
+    }
+        #toparea p{
+            color:white;
+           text-align: center;
+           padding:8px;
+           word-spacing: 5px;
+        }
+
+       
+
+        #area
+        {
+            height:800px;
+            width:100%;
+            background:#F3F2EE;
+            text-align: center;
+            
+        }
+       
+            
+       
+
+            

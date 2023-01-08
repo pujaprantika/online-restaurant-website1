@@ -1,0 +1,437 @@
+
+
+    #mainarea{
+        height:3000px;
+        width:100%;
+        background:yellow;
+    }
+    
+        #toparea
+        {
+            height:40px;
+            width:100%;
+            background: #1D4F44;
+            position:static;
+           
+        }
+            #toparea p{
+                color:white;
+               text-align: center;
+               padding:8px;
+               word-spacing: 5px;
+            }
+    
+        #logoarea
+        {
+            height:160px;
+            width:100%;
+            background: #FAFBF6;
+            position: fixed;
+            
+          
+        }
+            #logoarea1
+            {
+                height:160px;
+            width:20%;
+            background:#FEFFFB;
+            float:left;
+           
+            }
+            #logoarea1 img
+            {
+                height:100%;
+            width:100%;
+           
+           
+            }
+            #logoarea2
+            {
+                height:160px;
+            width:100%;
+            background: #FEFFFB;
+           
+          
+            }
+                
+    
+            #slidearea
+            {
+                height:500px;
+                width:100%;
+                background: red;
+            }
+
+            #slidearea img{
+                height:100%;
+                width:100%;
+            }
+
+            #visitarea
+{
+    height:800px;
+    width:100%;
+    background:grey;
+    
+}
+#visitarea1
+{
+    height:800px;
+    width:50%;
+    background:white;
+    float:left;
+    
+}
+    #visitarea1 p
+    {
+        color:#000000;
+       text-align: center;
+        font-weight:lighter;
+        font-size: smaller;
+        font-family:'Lucida Handwriting';
+       
+    }
+
+    #visitarea1 ul 
+    {
+        list-style: none;
+        padding:0;
+        margin:0;
+       
+    }
+
+    #find a:visited
+    {
+        color:white;
+    }
+   
+
+
+       
+
+    
+
+    #res
+    {
+        margin-left:250px;
+        margin-right:250px;
+        margin-bottom:10px;
+       
+      
+    }
+    
+    #wait
+    {
+        margin-left:250px;
+        margin-right:250px;
+       margin-bottom:10px;
+        
+    }
+
+    #find
+    {
+        margin-left:250px;
+        margin-right:250px;
+        color:white;
+        
+    }
+    
+    #visitarea1 ul li a:link,#visitarea1 ul li a:active{
+        color:rgb(246, 230, 230);
+        background: #28826f;
+       text-align: center;
+        display: block;
+       border: solid;
+       padding:5px;
+       text-decoration: none;
+    }
+       
+   
+   #visitarea2
+   {
+       height:800px;
+       width:50%;
+       background:white;
+       float:left;
+   }
+
+   #visitarea2 img
+   {
+       height: 730px;
+       width:100%;
+       margin-top: 10px;
+             }
+  
+
+#menuarea
+{
+    height:500px;
+    width: 100%;
+    background:green;
+    float:left;
+}
+
+#menuarea img
+{
+    width:100%;
+    height:100%;
+}
+
+    #menuarea1
+    {
+        height:500px;
+        width:100%;
+        background:#F6F7F3;
+        float:left;
+    }
+    #menuarea1 p
+    {
+        font-size:30px;
+        text-align:center;
+        font-family: 'Lucida Handwriting';
+        word-spacing: 5px;
+        line-height:45px;
+        letter-spacing: 2px;
+    }
+    #menuarea1 ul{
+
+    list-style: none;
+        
+        margin:0; 
+    
+    display: inline-block;
+   
+}
+    #menuarea1 ul li{
+    float:left;
+    
+    }
+
+    #din
+    {
+        float:left;
+        margin-right:20px ;
+        margin-left:20px;
+        padding-top: 10px;
+        
+       
+       
+    }
+    #cock
+    {
+        float:right;
+        margin-left:20px;
+        margin-right:20px;
+        padding-top: 10px;
+       
+    }
+
+    #wine
+    {
+        float:right;
+        margin-left:20px;
+        margin-right:20px;
+        padding-top: 10px;
+        
+    }
+
+    #des
+    {
+        float:right;
+        margin-left:20px;
+        margin-right:20px;
+        padding-top: 10px;
+        
+    }
+
+    #brun
+    {
+        float:right;
+        margin-left:20px;
+        margin-right:20px;
+        padding-top: 10px;
+       
+    }
+
+    #hr
+    {
+        float:right;
+        margin-left:20px;
+        margin-right:20px;
+        padding-top: 10px;
+       
+    }
+
+
+
+    #menuarea1 ul li a:link, #menuarea1 ul li a:visited
+    {
+        
+       border: solid 1px ;
+        text-align: center;
+        background:#1D4F44;
+        display:block;
+        color:white;
+        text-decoration: none;
+        width:100%;
+        margin:70px;
+        float:left;
+        
+      
+    }
+
+    #aboutarea
+    {
+        height:800px;
+        width:100%;
+        background:green;
+        float:left;
+    }
+        #aboutarea img
+        {
+            height:100%;
+            width:100%;
+        }
+
+
+        #about2
+        {
+            height:600px;
+            width:100%;
+            background:#F6F7F3;
+            float:left;
+        }
+
+        #about2 p
+        {
+        font-size:30px;
+        text-align:center;
+        font-family: 'Lucida Handwriting';
+        word-spacing: 5px;
+        line-height:75px;
+        letter-spacing: 2px;}
+
+
+        #about2 ul{
+            list-style: none;
+            margin:0;
+            padding:0;
+        }
+
+        #about2  li a:link, #about li a:visited
+    {
+        
+       border: solid 1px ;
+        text-align: center;
+        background:#1D4F44;
+        display:block;
+        color:white;
+        text-decoration: none;
+      width:100%;
+      list-style: none;
+      padding:8px;
+        
+      
+    }
+
+    #str
+    {
+        margin-left:650px;
+        margin-right:650px;
+        
+        
+    }
+    #str a:visited
+    {
+        color:white;
+    }
+    
+    #str ul li a:link, #str ul li a:visited
+{
+    
+   border: solid 1px ;
+    text-align: center;
+    background:#1D4F44;
+    display:block;
+  
+    text-decoration: none;
+ 
+  list-style: none;
+  padding:8px;
+    
+  
+}
+
+
+    
+    #social
+    {
+        width:100%;
+        height:60px;
+        background:white;
+        float:left;
+       
+       
+    }
+
+    #social1
+    {
+        width:50%;
+        height:40px;
+      background:white;
+       float:left;
+       padding-bottom:4px;
+    }
+
+    #social1 img{
+        height:45px;
+        width:50px;
+        background-color: #1D4F44;
+        float:left;
+        padding-bottom:4px;
+    }
+    #social2
+    {
+        width:50%;
+        height:40px;
+        background:white;
+        float:right;
+       
+    }
+
+    #social2 ul{
+        list-style: none;
+            margin:0;
+            padding-bottom:4px;
+    }
+
+    #social2  li a:link, #about li a:visited
+    {
+        
+      
+        text-align: end;
+      color:;
+        text-decoration: none;
+      width:100%;
+      list-style: none;
+      padding:8px;
+      
+        }
+
+       
+        #powered
+    {
+        width:100%;
+        height:30px;
+        background: #1D4F44;;
+        float:left;
+        color:white;
+       
+    }
+
+    #powered p{
+        margin:3px;
+        padding-top:2px;
+      
+    }
+   

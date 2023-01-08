@@ -1,0 +1,53 @@
+#mainarea{
+    height:1500px;
+    width:100%;
+    background:white;
+}
+
+    #toparea
+    {
+        height:40px;
+        width:100%;
+        background: #1D4F44;
+        
+       
+    }
+        #toparea p{
+            color:white;
+           text-align: center;
+           padding:8px;
+           word-spacing: 5px;
+        }
+
+        #puja 
+        {
+            display: flex;
+            height:100vh;
+            justify-content: center;
+            align-items: center;
+        }
+
+        
+        
+   .bg{background:url('D:/p1.webp') no-repeat; width: 1000px; height: 700px;margin-top: 50px;}
+
+    
+
+   input[type=text]
+   {
+    text-align: center;
+  
+}
+input[type=email]
+   {
+  
+    text-align: center;
+}
+input[type=number]
+   {
+  
+    text-align: center;
+  
+}
+
+
